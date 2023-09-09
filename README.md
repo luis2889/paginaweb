@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://luis2889.github.io/odin-project-recipes/)
+[Live Demo Link](https://luis2889.github.io/paginaweb/)
 
 ### Prerequisites
 To make this repository working in your local machine you need only a browser.
